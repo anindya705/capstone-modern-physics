@@ -1,1 +1,1 @@
-# capshtone-modern-physics
+# capstone-modern-physics
